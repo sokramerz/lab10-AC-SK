@@ -1,3 +1,8 @@
+#https://github.com/sokramerz/lab10-AC-SK
+#Adrian de la Cruz
+#Stephen Kramer
+
+
 import unittest
 from calculator import *
 
